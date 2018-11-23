@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheMovieManager/Controller/WatchlistViewController.swift"
+            timestampString = "564698643.196419"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheMovieManager.WatchlistViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TheMovieManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonathanbarrera/Downloads/ios-nd-networking-master/TheMovieManagerStarter/TheMovieManager/Controller/WatchlistViewController.swift"
+                  timestampString = "564540400.318361"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;TheMovieManager.Movie&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TheMovieManager.WatchlistViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TheMovieManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonathanbarrera/Downloads/ios-nd-networking-master/TheMovieManagerStarter/TheMovieManager/Controller/WatchlistViewController.swift"
+                  timestampString = "564540400.327137"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
